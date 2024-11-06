@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 
-.accio#job{
+#job{
 	height: 150px;
 	width: 150px;
 	background-color: #000000;
@@ -9,6 +9,6 @@
 
 .hello-accio{
 	color: #ffffff;
+	margin-left: 32px;
 	padding: 10px;
-	padding-left: 32px;
 }
